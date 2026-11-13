@@ -1,0 +1,6 @@
+ffmpeg.exe
+/output/*
+!/output/.gitkeep
+/input/*/imagen.*
+/input/*/audio.*
+.DS_Store
